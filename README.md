@@ -4,7 +4,6 @@
 
 ## <picture><img src="https://static.vecteezy.com/system/resources/previews/019/879/186/non_2x/user-icon-on-transparent-background-free-png.png" width=50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture>
 
 - Estudiante de Ingeniería de Sistemas en la Universidad de los Andes  
 - Enfoque en el desarrollo Full-Stack  
